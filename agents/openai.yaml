@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品宣传片制作"
+  short_description: "从产品手册提炼分镜脚本，确认后制作真实界面动效、声音及完整宣传视频"
+  default_prompt: "使用 $product-promo-film，根据我提供的产品手册和素材先产出完整分镜脚本，确认后直接制作并交付完整宣传视频。"
+policy:
+  allow_implicit_invocation: true
